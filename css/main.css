@@ -1,27 +1,27 @@
 body{
-  background-color: #fdf6e3
+  background-color: #fdf6e3;
 }
 header{
-  font-size: 1.5rem；
+  font-size: 1.5rem;
 }
 footer{
-  font-size: 1.5rem；
+  font-size: 1.5rem;
 }
 .log{
   text-transform: uppercase;
 }
 .wrapper{
-  background-color: #eee8d5；
+  background-color: #eee8d5;
 }
 #content,#favs,#facts,#Types{
-  color:#93a1a1；
+  color:#93a1a1;
 }
 .wrapper>.dfn {
-  background-color: #b58900；
+  background-color: #b58900;
 }
 .dfn p+strong{
-  color: #fff；
+  color: #fff;
 }
 a:not(.no-highlight){
-  background-color: #719e07；
+  background-color: #719e07;
 }
