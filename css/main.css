@@ -16,6 +16,6 @@ footer{
 #content,#favs,#facts,#Types{
   color:#93a1a1
 }
-.wapper .dfn{
+.wrapper>.dfn {
   background-color: #b58900
 }
