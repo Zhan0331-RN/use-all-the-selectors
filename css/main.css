@@ -7,6 +7,9 @@ header{
 footer{
   font-size: 1.5rem;
 }
+navs ul{
+  font-family: sans-serif;
+}
 .log{
   text-transform: uppercase;
 }
