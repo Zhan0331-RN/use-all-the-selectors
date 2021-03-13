@@ -7,7 +7,7 @@ header{
 footer{
   font-size: 1.5rem;
 }
-navs ul{
+nav ul{
   font-family: sans-serif;
 }
 .log{
@@ -16,8 +16,8 @@ navs ul{
 .wrapper{
   background-color: #eee8d5;
 }
-#content, #favs, #facts, #Types{
-  color:#93a1a1;
+#content, #favs, #facts, #types{
+  color: #93a1a1;
 }
 .wrapper>.dfn {
   background-color: #b58900;
